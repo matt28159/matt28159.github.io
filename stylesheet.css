@@ -1,36 +1,36 @@
 /* Apply style to all <p> elements */
 p {
-    font-size: 16px;
-    color: #333;
+  font-size: 16px;
+  color: #333;
 }
 
 /* Class for sections */
 .section {
-    padding: 20px;
-    margin: 20px;
-    background-color: #f4f4f4;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f4f4f4;
 }
 
 /* Style an ID */
 #main-title {
-    text-align: center;
-    color: blue;
+  text-align: center;
+  color: blue;
 }
 
 /* Style <a> and change color on hover */
 a {
-    color: red;
-    text-decoration: none;
+  color: red;
+  text-decoration: none;
 }
 
 a:hover {
-    color: green;
+  color: green;
 }
 
 /* Box model properties */
 .profile-img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 2px solid black;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid black;
 }
